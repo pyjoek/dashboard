@@ -1,0 +1,7 @@
+.body {
+    position: relative;
+    margin: 0.3rem;
+    background-color: lightgreen;
+    border-radius: 24px;
+    height: 60vh;
+}

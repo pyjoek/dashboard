@@ -1,0 +1,14 @@
+.left {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftbar {
+    margin: 0.3rem;
+    position: relative;
+    background-color: white;
+    border-radius: 24px;
+    height: 10rem;
+    width: 35%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
