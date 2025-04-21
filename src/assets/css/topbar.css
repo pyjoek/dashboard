@@ -2,7 +2,8 @@
     position: relative;
     top: 0%;
     background-color: blue;
-    height: 11vh;
+    height: 6vh;
     border-radius: 24px;
     margin: 0.3rem;
+    text-align: center;
 }

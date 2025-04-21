@@ -4,7 +4,7 @@ function BottomBar() {
     return (
         <>
         <div className="bottombar">
-
+            <h1>© 2025 Joel's System Monitor</h1>
         </div>
         </>
     )

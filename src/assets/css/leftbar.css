@@ -9,6 +9,7 @@
     background-color: white;
     border-radius: 24px;
     height: 10rem;
+    text-align: center;
     width: 35%;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
